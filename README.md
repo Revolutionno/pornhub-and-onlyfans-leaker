@@ -10,9 +10,5 @@ Change log :
 - added Step
 - added High Jump
 - added No Fall
-- added 
-- added 
-- added 
-- added  
-- added 
-- deleted Old Gui
+- added Better optimization to reduce lag
+- added a better color scheme for the GUI and remade the whole GUI
